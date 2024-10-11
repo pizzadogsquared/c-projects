@@ -1,0 +1,4 @@
+n C,  strm s n bstrct ntrfc sd t prfrm npt nd tpt prtns n vrs srcs, sch s fls, kybrd, r ntwrk cnnctns. 
+Th strm s  lgcl mplmnttn f th physcl / dvcs, prvdng  cnsstnt nd nfd wy t ntrct wth dffrnt typs f / dvcs n C.
+vry prgrm w crtd ntl nw sd t lst thr strms. stdn s th stndrd npt strm. 
+t s slly ssctd wth th kybrd, dpndng n hw th prgrm s xctd, nd th strm s mnpltd by fnctns sch s scnf r fgts, whch rd dt frm th npt dvc.

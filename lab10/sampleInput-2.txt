@@ -1,0 +1,4 @@
+In C, a stream is an abstract interface used to perform input and output operations on various sources, such as files, keyboard, or network connections. 
+The stream is a logical implementation of the physical I/O devices, providing a consistent and unified way to interact with different types of I/O devices in C.
+Every program we created until now used at least three streams. stdin is the standard input stream. 
+It is usually associated with the keyboard, depending on how the program is executed, and the stream is manipulated by functions such as scanf or fgets, which read data from the input device.
